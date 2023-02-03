@@ -11,7 +11,9 @@ url:https://europepmc.org/article/ppr/ppr454535
 
 bottomupdesign algorithm:It's a golbal optimal solution but time cost longer.
 
-![image](https://user-images.githubusercontent.com/29221718/216574666-39b84311-2341-438d-b558-4d47cd26222e.png)
+![image](https://user-images.githubusercontent.com/29221718/216575654-8029c230-15ec-4a86-b59d-fbcba1833536.png)
+
 
 lineardedesign algorithm:It's a Local optimal solutionn but time efficiency.
 
+![image](https://user-images.githubusercontent.com/29221718/216575904-4cf6201b-ff2f-4194-a46b-afd4302463a5.png)
